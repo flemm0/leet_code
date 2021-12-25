@@ -12,4 +12,5 @@ class Solution:
                 idx += 1
         
         return(idx)
+    
             
