@@ -1,3 +1,4 @@
+[Discussion Post (created on 24/11/2021 at 21:40)](https://leetcode.com/problems/search-insert-position/discuss/1645804/Faster-then-99.96-in-Python)  
 <h2>35. Search Insert Position</h2><h3>Easy</h3><hr><div><p>Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.</p>
 
 <p>You must&nbsp;write an algorithm with&nbsp;<code>O(log n)</code> runtime complexity.</p>
